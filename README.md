@@ -7,6 +7,7 @@ This project simulates an AI-based autonomous navigation system using path plann
 The system demonstrates how an agent (robot) navigates from a start point to a goal while avoiding obstacles using the A* algorithm.
 
 🎯 Features
+
 🧠 A* Path Planning Algorithm
 🚧 Obstacle Avoidance
 🎮 Smooth Agent Movement
@@ -15,6 +16,7 @@ The system demonstrates how an agent (robot) navigates from a start point to a g
 📍 Start & Goal Visualization
 
 🏭 Industry Relevance
+
 Autonomous navigation systems are widely used in:
 - Self-driving cars
 - Warehouse robots
@@ -24,8 +26,8 @@ Autonomous navigation systems are widely used in:
 
 
  🛠️ Tech Stack
+ 
 - Python
 - Pygame
 - NumPy (optional)
 
-🧱 Project Architecture
